@@ -1,1 +1,45 @@
+body{
+	background-color: #EFEFEF;
+}
+#header-nav{
+	background-color: gray;
+	height: 80px;
+}
+.navbar-brand h1{
+	font-weight: bold;
+	color: black;
+	font-size: 1.5em;
+	line-height: .1;
+}
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -15px; 
+}
+#nav-list{
+	background-color:  #EFEFEF;
+	margin-top: -0.5px;
+	border: 2px solid black;
+	position: relative;
+}
+#nav-list a{
+	text-align: center;
+	color: black;
+}
+section #colom{
+	background-color: gray;
+}
+section #colom h3{
+	font-weight: bold;
+	padding-top:5px;
+}
+section #colom p{
+	padding: 5px;
+	color: black;
+}
 
